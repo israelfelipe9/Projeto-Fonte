@@ -7,6 +7,7 @@ O projeto tem como objetivo a elaboração de uma fonte eletrôncia que seja cap
 | **Componente** | **Justificativa** | 
 |:---|---|
 | Transformador | O transformador foi usado para modificar o nível de tensão de 127V CA para um valor próximo a 17V CA, dessa forma, obtemos uma tensão mais próxima de 3V-12V |
-| 4 x Diodo | Os diodos foram usados para a formação de uma ponte de diodos, que tem como objetivo aproveitar o ciclo inteiro de tensão e, dessa forma, transformar a tensão de alternada para contínua
+| 4 x Diodo | Os diodos foram usados para a formação de uma ponte retificadora(ponte de diodos), que tem como objetivo aproveitar o ciclo inteiro de tensão e, dessa forma, transformar a tensão de alternada para contínua |
+| Capacitor | O objetivo do capacitor é armazenar carga, para quando se tornar necessário, ele alimentará o circuito com a corrente necessária para continuar funcionando
 ## **Desenvolvido por:**
 Israel Felipe da Silva - Nro. USP: 11796531
