@@ -7,6 +7,6 @@ O projeto tem como objetivo a elaboração de uma fonte eletrôncia que seja cap
 | **Componente** | **Justificativa** | 
 |:---|---|
 | Transformador | O transformador foi usado para modificar o nível de tensão de 127V CA para um valor próximo a 17V CA, dessa forma, obtemos uma tensão mais próxima de 3V-12V |
-
+| 4 x Diodo | Os diodos foram usados para a formação de uma ponte de diodos, que tem como objetivo aproveitar o ciclo inteiro de tensão e, dessa forma, transformar a tensão de alternada para contínua
 ## **Desenvolvido por:**
 Israel Felipe da Silva
