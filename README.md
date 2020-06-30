@@ -28,8 +28,8 @@ O projeto tem como objetivo a elaboração de uma fonte eletrôncia que seja cap
 | Diodo | Modelo 1N4007 | 4 | [R$0,15](https://www.curtocircuito.com.br/diodo-retificador-1n4007-1000v-1a.html)| 
 | Capacitor | Cap. eletrolítico 470uF/35V | 1 | [R$0,57](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-35v.html)| 
 | Diodo Zener | Modelo 1N4743 (13V 1W) | 1 | [R$0,20](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)| 
-| Resistor | | 1 | | [R$]()| 
-| Resistor | | 1 | | [R$]()| 
+| Resistor | 1.2KΩ | 1 | [R$0,08](https://www.baudaeletronica.com.br/resistor-1k2-5-1-4w.html)| 
+| Resistor | 2.2KΩ + 100Ω = 2.3KΩ | 1 | [R$0,016](https://www.baudaeletronica.com.br/resistor-2k2-5-1-4w.html)| 
 | Potenciômetro | 5kΩ | 1 | [R$1,09](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)| 
 | Transistor NPN | Modelo BC337 | 1 | [R$0,17](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)| 
 
