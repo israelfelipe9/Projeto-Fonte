@@ -19,7 +19,7 @@ O projeto tem como objetivo a elaboração de uma fonte eletrôncia que seja cap
 ## Especificações e valores dos componentes
 | **Componente** | **Especificações** | **Qtdade** | **Valor Unitário** |
 |:---|---|---|---|
-| Transformador | | 1 | | [R$]()| 
+| Transformador | Bivolt : 24V 1A | 1 | | [R$34,99](https://www.magazineluiza.com.br/transformador-trafo-24-24v-1a-bivolt-mm/p/bha18aghhb/pi/auen/?&1=1&seller_id=hunion&&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=54242&gclid=CjwKCAjwxev3BRBBEiwAiB_PWGVPDDHd4e99YbpvWCDPE95ZHM7fEwWpFrxrV3dTu8nvX6PwqdDZTRoCYycQAvD_BwE)| 
 | Diodo | | 4 | | [R$]()| 
 | Capacitor | | 1 | | [R$]()| 
 | Diodo Zener | | 1 | | [R$]()| 
