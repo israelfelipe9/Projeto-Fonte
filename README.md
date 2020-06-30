@@ -19,6 +19,14 @@ O projeto tem como objetivo a elaboração de uma fonte eletrôncia que seja cap
 ## Especificações e valores dos componentes
 | **Componente** | **Especificações** | **Qtdade** | **Valor Unitário** |
 |:---|---|---|---|
+| Transformador | | 1 | | [R$]()| 
+| Diodo | | 4 | | [R$]()| 
+| Capacitor | | 1 | | [R$]()| 
+| Diodo Zener | | 1 | | [R$]()| 
+| Resistor | | 1 | | [R$]()| 
+| Resistor | | 1 | | [R$]()| 
+| Potenciômetro | | 1 | | [R$]()| 
+| Transistor NPN | | 1 | | [R$]()| 
 
 ## **Desenvolvido por:**
 Israel Felipe da Silva - Nro. USP: 11796531
