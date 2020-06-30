@@ -22,7 +22,7 @@ O projeto tem como objetivo a elaboração de uma fonte eletrôncia que seja cap
 | Transformador | Bivolt 24V 1A | 1 | [R$34,99](https://www.magazineluiza.com.br/transformador-trafo-24-24v-1a-bivolt-mm/p/bha18aghhb/pi/auen/?&1=1&seller_id=hunion&&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=54242&gclid=CjwKCAjwxev3BRBBEiwAiB_PWGVPDDHd4e99YbpvWCDPE95ZHM7fEwWpFrxrV3dTu8nvX6PwqdDZTRoCYycQAvD_BwE)| 
 | Diodo | Modelo 1N4007 | 4 | [R$0,15](https://www.curtocircuito.com.br/diodo-retificador-1n4007-1000v-1a.html)| 
 | Capacitor | Cap. eletrolítico 470uF/35V | 1 | [R$0,57](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-35v.html)| 
-| Diodo Zener | | 1 | | [R$]()| 
+| Diodo Zener | Modelo 1N4743 13V 1W | 1 | [R$0,20](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)| 
 | Resistor | | 1 | | [R$]()| 
 | Resistor | | 1 | | [R$]()| 
 | Potenciômetro | | 1 | | [R$]()| 
