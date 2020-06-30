@@ -10,5 +10,6 @@ O projeto tem como objetivo a elaboração de uma fonte eletrôncia que seja cap
 | 4 x Diodo | Os diodos foram usados para a formação de uma ponte retificadora(ponte de diodos), que tem como objetivo aproveitar o máximo do ciclo de tensão e, dessa forma, transformar a tensão de alternada para contínua |
 | Capacitor | O objetivo do capacitor é armazenar carga, para durante as oscilações de tensão ele fornecer uma corrente necessária para manter o circuito em funcionamento |
 | Diodo Zener | O diodo zener sendo um regulador de tensão, é utilizado para limitar a tensão que será obtida a partir dele, se a tensão de entrada for maior que a tensão zener, a tensão de saída será a tensão zener, caso contrário nada ocorrerá, logo, no projeto ele foi utilizado para prover ao circuito uma tensão final constante e superior a 12V |
+| Resistor ... | Este resistor foi utilizado para limitar a corrente que passará pelo diodo zener, visto que, quando ele estiver em funcionamento (com tensão de entrada superior a tensão zener) ele se tornará uma espécie de curto circuito |
 ## **Desenvolvido por:**
 Israel Felipe da Silva - Nro. USP: 11796531
