@@ -15,6 +15,8 @@ O projeto tem como objetivo a elaboração de uma fonte eletrôncia que seja cap
 | Potenciômetro | Permite alternar a tensão de saída para um valor entre 3V-12V |
 | Transistor NPN | O transistor NPN foi utilizado para de maneira mútua conseguir aproveitar a tensão de saída do potenciômetro (-0.7V entre a base e o emissor) com uma corrente amplificada e definida pelo produto da corrente de base com o ganho estático de corrente (beta ou hFE) |
 
+## **Tabela de especificações e valores dos componentes:**
+
 | **Componente** | **Especificações** | **Qtdade** | **Valor Unitário** |
 |:---|---|---|---|
 
