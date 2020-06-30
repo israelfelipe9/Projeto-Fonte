@@ -16,5 +16,7 @@ O projeto tem como objetivo a elaboração de uma fonte eletrôncia que seja cap
 | Transistor NPN | O transistor NPN foi utilizado para de maneira mútua conseguir aproveitar a tensão de saída do potenciômetro (-0.7V entre a base e o emissor) com uma corrente amplificada e definida pelo produto da corrente de base com o ganho estático de corrente (beta ou hFE) |
 
 | **Componente** | **Especificações** | **Qtdade** | **Valor Unitário** |
+|:---|---|
+| Transformador | | | |
 ## **Desenvolvido por:**
 Israel Felipe da Silva - Nro. USP: 11796531
