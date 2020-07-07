@@ -34,9 +34,11 @@ O projeto tem como objetivo a elaboração de uma fonte eletrôncia que seja cap
 | Potenciômetro | 5kΩ | 1 | [R$1,09](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)| 
 | Transistor NPN | Modelo BC337 | 1 | [R$0,17](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)| 
 --------
-## Projeto do esquemático
+## Projeto do esquemático (Eagle)
+![](sch.png)
 --------
 ## PCB no Eagle
+![](pcb.png)
 --------
 ## **Desenvolvido por:**
 Israel Felipe da Silva - Nro. USP: 11796531
