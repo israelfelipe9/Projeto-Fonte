@@ -40,5 +40,7 @@ O projeto tem como objetivo a elaboração de uma fonte eletrôncia que seja cap
 ## PCB no Eagle
 ![](pcb1.png)
 --------
+## [Video explicativo]()
+--------
 ## **Desenvolvido por:**
 Israel Felipe da Silva - Nro. USP: 11796531
